@@ -1,0 +1,5 @@
+@extends('errors.layout')
+@section('title', 'Algo deu errado — Kronoplan')
+@section('code', '500')
+@section('heading', 'Vamos tentar de novo.')
+@section('message', 'Não conseguimos carregar esta página agora. Tente novamente em alguns instantes.')

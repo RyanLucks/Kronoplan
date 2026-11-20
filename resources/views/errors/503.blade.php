@@ -1,0 +1,5 @@
+@extends('errors.layout')
+@section('title', 'Voltamos em breve — Kronoplan')
+@section('code', '503')
+@section('heading', 'Estamos fazendo uma pausa.')
+@section('message', 'O Kronoplan está temporariamente indisponível. Tente novamente em alguns instantes.')

@@ -1,0 +1,5 @@
+@extends('errors.layout')
+@section('title', 'Página não encontrada — Kronoplan')
+@section('code', '404')
+@section('heading', 'Este caminho mudou.')
+@section('message', 'A página que você procura não está por aqui. Às vezes, ajustar a rota também faz parte do plano.')
